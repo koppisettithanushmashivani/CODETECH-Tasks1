@@ -60,7 +60,8 @@ OUTPUT OF THIS PROJECT EXPLANATION:
 CONCLUSION:
   In conclusion, the "Temperature and Humidity Monitoring with DHT Sensor" project successfully demonstrates the design and implementation of a cost-effective and efficient system for real-time environmental monitoring. By utilizing a DHT sensor, such as the DHT11 or DHT22, along with a microcontroller, the system accurately measures and displays temperature and humidity levels, providing valuable data for various applications. The project highlights the importance of monitoring environmental conditions in fields such as agriculture, home automation, and weather analysis. Additionally, it offers opportunities for further enhancement, such as incorporating alert mechanisms, data logging, and IoT integration. Overall, this project not only provides practical solutions for real-world challenges but also serves as a foundational learning experience in electronics, programming, and sensor-based systems.
 
-OUTPUT OF TEMPERATURE AND HUMIDITY: https://github.com/koppisettithanushmashivani/CODETECH-Tasks1/commit/e6886fc04a3d031346256ecc18a0afaa75d93d52 
+OUTPUT OF TEMPERATURE AND HUMIDITY:https://github.com/koppisettithanushmashivani/CODETECH-Tasks1/commit/e6886fc04a3d031346256ecc18a0afaa75d93d52 
+OUTPUT VIDEO:https://github.com/user-attachments/assets/8208f9af-78df-42e0-b786-508495b73a09
 
 
 
